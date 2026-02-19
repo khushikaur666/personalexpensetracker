@@ -2,7 +2,7 @@
 
 I’ve always been really interested in personal finance, and I wanted a simple way to keep track of my expenses. So I decided to build this expense tracker, a tool I can easily access and use online to monitor my spending, categorize my expenses, and get a better understanding of my budget.
 
-This project helped me combine my love for finance with a bit of coding practice.
+This project helped me combine my love for finance and coding. 
 
 The project is built in Python, and here’s a bit about how it works:
 
