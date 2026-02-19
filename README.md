@@ -8,6 +8,6 @@ The project is built in Python, and here’s a bit about how it works:
 
 expense_tracker_gui.py: This is the main file that launches the user interface using tkinter. It lets you add, edit, and view your expenses in a simple, interactive GUI!
 
-Data storage: The tracker keeps your expenses organized in CSV files (or another simple format), so your data is saved between sessions.
+SQLite Database (expenses.db): All expenses are stored in a local SQLite database. The database is automatically created when you first run the program. Each expense has a date, category, description, and amount.
 
 Categorization: Each expense can be categorized (e.g., food, transport, tuition, entertainment), making it easy to see where your money is going.
